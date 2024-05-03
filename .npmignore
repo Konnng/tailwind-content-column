@@ -1,0 +1,7 @@
+eslint.config.cjs
+jsconfig.json
+.npmrc
+.prettierrc
+.vscode/
+.history/
+tests/
